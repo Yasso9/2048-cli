@@ -5,7 +5,7 @@ This is a command-line implementation of the popular game 2048, written in C as 
 
 # Screenshot
 
-<img src="screen.png" width=30% title="Game Screenshot">
+<img src="screen.png" title="Game Screenshot">
 
 
 # How to Play
@@ -28,8 +28,8 @@ To install and run the game, follow these steps:
 
 1. Clone the repository or download the source code files.
 2. Open a terminal or command prompt and navigate to the directory containing the source code files.
-3. Run the following command to compile the code: gcc *.c -o 2048
-4. After the compilation is complete, run the game by entering: ./2048
+3. Run the following command to compile the code: `gcc *.c -o 2048`
+4. After the compilation is complete, run the game by entering: `./2048`
 
 Note that you must have GCC installed on your computer in order to compile the code.
 
